@@ -1,4 +1,4 @@
-### Hi there, I'm Vignesh Gupta a.k.a. [DUD3-droid] [https://dud3-droid.github.io/Portfolio/] 👋
+### Hi there, I'm Vignesh Gupta a.k.a. [DUD3-droid][https://dud3-droid.github.io/Portfolio/] 👋
 
 <!--
 **DUD3-droid/DUD3-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
