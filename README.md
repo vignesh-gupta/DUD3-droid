@@ -6,6 +6,7 @@
 </a>
 <a href="https://twitter.com/VighneshGupta9" class="twitter">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
+    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/__viggi__26/" class="instagram">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
@@ -16,7 +17,9 @@
 <a href="https://codepen.io/dud3-droid" class="codepen">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />
 </a>
+<br/>
 
+ 
 - 🔭 I’m currently working on Own Profolio.
 - 🌱 I’m currently learning Web-Dev.
 - 👯 I’m looking to collaborate with Creative Dev.
