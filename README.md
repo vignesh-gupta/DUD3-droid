@@ -1,4 +1,6 @@
 ### Hi there, I'm Vignesh Gupta a.k.a. [DUD3-droid!](https://dud3-droid.github.io/Portfolio/) 👋
+
+Connect with me:
 <a href="https://www.facebook.com/vighnesh.gupta.5">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
 </a>
