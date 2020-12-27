@@ -6,7 +6,6 @@
 </a>
 <a href="https://twitter.com/VighneshGupta9" class="twitter">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
-    <img height="32" width="32" src="https://unpkg.com/simple-icons@v4/icons/twitter.svg" />
 </a>
 <a href="https://www.instagram.com/__viggi__26/" class="instagram">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/instagram.svg" />
@@ -20,9 +19,16 @@
 <br/>
 
  
-- 🔭 I’m currently working on Own Profolio.
-- 🌱 I’m currently learning Web-Dev.
+- 🔭 I’m currently working on Own Portfolio.
+- 🌱 I’m currently learning Web-Development.
 - 👯 I’m looking to collaborate with Creative Dev.
 - 💬 Ask me about Web-Designing [here](https://github.com/DUD3-droid/DUD3-droid/issues)
 - ⚡ Fun fact: Love to eat Chocolate while coding.
 
+**Languages and Tools:**  
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> 
