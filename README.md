@@ -32,7 +32,7 @@
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/mysql.svg"></code>
 <br />  <br />
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/sublime-text.svg"></code>
-<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.svg"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.png"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/xampp.png"></code>
 <br />  <br />
 ## Here's a some Stats:
