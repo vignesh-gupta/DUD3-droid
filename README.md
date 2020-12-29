@@ -2,7 +2,7 @@
 
 ## Connect with me:<br/>
 <a href="https://www.facebook.com/vighnesh.gupta.5">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg" />
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/facebook.svg    " />
 </a>
 <a href="https://twitter.com/VighneshGupta9" class="twitter">
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/twitter.svg" />
