@@ -14,7 +14,7 @@
     <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/github.svg" />
 </a>
 <a href="https://codepen.io/dud3-droid" class="codepen">
-    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/codepen.svg" />
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/codepen.svg" />
 </a>
 <br/>
 
