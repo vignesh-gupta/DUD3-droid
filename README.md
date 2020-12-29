@@ -11,7 +11,7 @@
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/instagram.svg" />
 </a>
 <a href="https://codepen.io/dud3-droid" class="codepen">
-    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/codepen.svg" />
+    <img height="32" width="32" src="https://raw.githubusercontent.com/DUD3-droid/DUD3-droid/b2adcd79242ff6a9e7052481ba1edf01711fc2ee/assets/codepen.svg" />
 </a>
 <br/>
 
