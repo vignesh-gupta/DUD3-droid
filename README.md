@@ -1,6 +1,9 @@
 ### Hi there, I'm Vignesh Gupta a.k.a. [DUD3-droid!](https://dud3-droid.github.io/Portfolio/) 👋
 
 ## Connect with me:<br/>
+<a href="https://dud3-droid.github.io/Portfolio/" class="Web">
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/Web.png" />
+</a>
 <a href="https://www.facebook.com/vighnesh.gupta.5">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/facebook.svg" />
 </a>
@@ -13,6 +16,10 @@
 <a href="https://codepen.io/dud3-droid" class="codepen">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/codepen.svg" />
 </a>
+<a href="https://www.linkedin.com/in/vignesh-gupta-206992199/" class="linkedin">
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/linkedin.png" />
+</a>
+
 <br/>
 
 ## About Me: 
