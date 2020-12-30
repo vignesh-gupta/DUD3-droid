@@ -44,10 +44,10 @@
 <br />  <br />
 
 ## Here's some Stats:
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=DUD3-droid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Anurag's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="#">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DUD3-droid&layout=compact&theme=material-palenight" />
 </a><br /><br />
