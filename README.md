@@ -10,14 +10,14 @@
 <a href="https://twitter.com/VighneshGupta9" class="twitter">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/twitter.svg" />
 </a>
+<a href="https://www.linkedin.com/in/vignesh-gupta-206992199/" class="linkedin">
+    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/linkedin.png" />
+</a>
 <a href="https://www.instagram.com/__viggi__26/" class="instagram">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/instagram.svg" />
 </a>
 <a href="https://codepen.io/dud3-droid" class="codepen">
     <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/codepen.svg" />
-</a>
-<a href="https://www.linkedin.com/in/vignesh-gupta-206992199/" class="linkedin">
-    <img height="32" width="32" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/linkedin.png" />
 </a>
 
 <br/>
