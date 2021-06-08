@@ -37,6 +37,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/php.svg"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/mysql.svg"></code>
+<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/java.png"></code>
 <br />  <br />
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.png"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/sublime-text.svg"></code>
@@ -45,9 +46,8 @@
 
 ## Here's some Stats:
 <a href="#">
-  <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api?username=DUD3-droid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Anurag's github stats" />
+  <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api?username=DUD3-droid&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="Vignesh's github stats" />
 </a>
 <a href="#">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.dud3-droid.vercel.app/api/top-langs/?username=DUD3-droid&layout=compact&theme=material-palenight" />
 </a><br /><br />
