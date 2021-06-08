@@ -41,7 +41,7 @@
 <br />  <br />
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/visual-studio.png"></code>
 <code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/sublime-text.svg"></code>
-<code><img height="20" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/xampp.png"></code>
+<code><img height="40" src="https://github.com/DUD3-droid/DUD3-droid/blob/main/assets/xampp.png"></code>
 <br />  <br />
 
 ## Here's some Stats:
