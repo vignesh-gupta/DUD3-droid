@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://dud3-droid.github.io/Portfolio/](https://dud3-droid.github.io/Portfolio/)
+- 👨‍💻 All of my projects are available at [dud3-droid](https://dud3-droid.netlify.app)
 
 - 💬 Ask me about **react ,**
 
